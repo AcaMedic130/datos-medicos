@@ -885,5 +885,5 @@
 {"id": "00884", "medicamento": "Oxibutinina clorhidrato", "concentracion": "5mg", "forma": "TAB"},
 {"id": "00885", "medicamento": "Potasio citrato", "concentracion": "1080mg", "forma": "TAB LIB MODIF"},
 {"id": "00886", "medicamento": "Tamsulosina clorhidrato", "concentracion": "400mcg (0.4mg)", "forma": "TAB LIB MODIF"},
-{"id": "00887", "medicamento": "Finasterida", "concentracion": "5mg", "forma": "TAB"},
+{"id": "00887", "medicamento": "Finasterida", "concentracion": "5mg", "forma": "TAB"}
 ]
