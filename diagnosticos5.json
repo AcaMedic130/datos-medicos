@@ -1,7 +1,9 @@
 [
   {
     "id": "(A00 - A09)",
-    "nombre": "ENFERMEDADES INFECCIOSAS INTESTINALES"
+    "nombre": "ENFERMEDADES INFECCIOSAS INTESTINALES",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "A00",
@@ -8265,7 +8267,9 @@
   },
   {
     "id": "D649",
-    "nombre": "ANEMIA DE TIPO NO ESPECIFICADO"
+    "nombre": "ANEMIA DE TIPO NO ESPECIFICADO",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "(D65 - D69)",
@@ -8825,11 +8829,15 @@
   },
   {
     "id": "E038",
-    "nombre": "OTROS HIPOTIROIDISMOS ESPECIFICADOS"
+    "nombre": "OTROS HIPOTIROIDISMOS ESPECIFICADOS",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E039",
-    "nombre": "HIPOTIROIDISMO, NO ESPECIFICADO"
+    "nombre": "HIPOTIROIDISMO, NO ESPECIFICADO, HIPOTIROIDISMO ADQUIRIDO POR DEFICIENCIA DE YODO",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E04",
@@ -8841,7 +8849,9 @@
   },
   {
     "id": "E041",
-    "nombre": "NODULO TIROIDEO SOLITARIO NO TOXICO"
+    "nombre": "NODULO TIROIDEO SOLITARIO NO TOXICO",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E042",
@@ -8861,7 +8871,9 @@
   },
   {
     "id": "E050",
-    "nombre": "TIROTOXICOSIS CON BOCIO DIFUSO"
+    "nombre": "TIROTOXICOSIS CON BOCIO DIFUSO",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E051",
@@ -8889,7 +8901,9 @@
   },
   {
     "id": "E059",
-    "nombre": "TIROTOXICOSIS, NO ESPECIFICADA"
+    "nombre": "TIROTOXICOSIS, NO ESPECIFICADA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E06",
@@ -8909,7 +8923,9 @@
   },
   {
     "id": "E063",
-    "nombre": "TIROIDITIS AUTOINMUNE"
+    "nombre": "TIROIDITIS AUTOINMUNE",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E064",
@@ -9013,7 +9029,9 @@
   },
   {
     "id": "E114",
-    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES NEUROLOGICAS"
+    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES NEUROLOGICAS",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E115",
@@ -9021,19 +9039,27 @@
   },
   {
     "id": "E116",
-    "nombre": "DIABETES MELLITUS TIPO 2, CON OTRAS COMPLICACIONES ESPECIFICADAS"
+    "nombre": "DIABETES MELLITUS TIPO 2, CON OTRAS COMPLICACIONES ESPECIFICADAS",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E117",
-    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES MULTIPLES"
+    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES MULTIPLES",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E118",
-    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES NO ESPECIFICADAS"
+    "nombre": "DIABETES MELLITUS TIPO 2, CON COMPLICACIONES NO ESPECIFICADAS",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E119",
-    "nombre": "DIABETES MELLITUS TIPO 2, SIN MENCION DE COMPLICACION"
+    "nombre": "DIABETES MELLITUS TIPO 2, SIN MENCION DE COMPLICACION",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E1191",
@@ -9169,7 +9195,9 @@
   },
   {
     "id": "E149",
-    "nombre": "DIABETES MELLITUS NO ESPECIFICADA, SIN MENCION DE COMPLICACION"
+    "nombre": "DIABETES MELLITUS NO ESPECIFICADA, SIN MENCION DE COMPLICACION",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "(E15 - E16)",
@@ -9213,7 +9241,9 @@
   },
   {
     "id": "E169",
-    "nombre": "TRASTORNOS DE LA SECRECION INTERNA DEL PANCREAS, SIN OTRA ESPECIFICACION"
+    "nombre": "TRASTORNOS DE LA SECRECION INTERNA DEL PANCREAS, SIN OTRA ESPECIFICACION",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "(E20 - E35)",
@@ -9297,7 +9327,9 @@
   },
   {
     "id": "E230",
-    "nombre": "HIPOPITUITARISMO"
+    "nombre": "HIPOPITUITARISMO",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E231",
@@ -9645,7 +9677,9 @@
   },
   {
     "id": "E440",
-    "nombre": "DESNUTRICION PROTEICOCALORICA MODERADA"
+    "nombre": "DESNUTRICION PROTEICOCALORICA MODERADA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E441",
@@ -9981,19 +10015,27 @@
   },
   {
     "id": "E669",
-    "nombre": "OBESIDAD, NO ESPECIFICADA"
+    "nombre": "OBESIDAD, NO ESPECIFICADA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E6691",
-    "nombre": "OBESIDAD GRADO I"
+    "nombre": "OBESIDAD GRADO I",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E6692",
-    "nombre": "OBESIDAD GRADO II"
+    "nombre": "OBESIDAD GRADO II",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E6693",
-    "nombre": "OBESIDAD GRADO III"
+    "nombre": "OBESIDAD GRADO III",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E67",
@@ -10253,15 +10295,21 @@
   },
   {
     "id": "E780",
-    "nombre": "HIPERCOLESTEROLEMIA PURA"
+    "nombre": "HIPERCOLESTEROLEMIA PURA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E781",
-    "nombre": "HIPERGLICERIDEMIA PURA"
+    "nombre": "HIPERGLICERIDEMIA PURA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E782",
-    "nombre": "HIPERLIPIDEMIA MIXTA"
+    "nombre": "HIPERLIPIDEMIA MIXTA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E783",
@@ -10273,7 +10321,9 @@
   },
   {
     "id": "E785",
-    "nombre": "HIPERLIPIDEMIA NO ESPECIFICADA"
+    "nombre": "HIPERLIPIDEMIA NO ESPECIFICADA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E786",
@@ -10513,7 +10563,9 @@
   },
   {
     "id": "E890",
-    "nombre": "HIPOTIROIDISMO CONSECUTIVO A PROCEDIMIENTOS"
+    "nombre": "HIPOTIROIDISMO CONSECUTIVO A PROCEDIMIENTOS",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "E891",
@@ -13761,7 +13813,9 @@
   },
   {
     "id": "G632",
-    "nombre": "POLINEUROPATIA DIABETICA"
+    "nombre": "POLINEUROPATIA DIABETICA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "G633",
@@ -16288,12 +16342,10 @@
     "nombre": "ENFERMEDADES HIPERTENSIVAS"
   },
   {
-    "id": "I10",
-    "nombre": "HIPERTENSION ESENCIAL (PRIMARIA) -"
-  },
-  {
     "id": "I10X",
-    "nombre": "HIPERTENSION ESENCIAL (PRIMARIA) -"
+    "nombre": "HIPERTENSION ESENCIAL (PRIMARIA)",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I11",
@@ -16301,11 +16353,15 @@
   },
   {
     "id": "I110",
-    "nombre": "ENFERMEDAD CARDIACA HIPERTENSIVA CON INSUFICIENCIA CARDIACA (CONGESTIVA) -"
+    "nombre": "ENFERMEDAD CARDIACA HIPERTENSIVA CON INSUFICIENCIA CARDIACA (CONGESTIVA)",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I119",
-    "nombre": "ENFERMEDAD CARDIACA HIPERTENSIVA SIN INSUFICIENCIA CARDIACA (CONGESTIVA) -"
+    "nombre": "ENFERMEDAD CARDIACA HIPERTENSIVA SIN INSUFICIENCIA CARDIACA (CONGESTIVA)",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I12",
@@ -16501,7 +16557,9 @@
   },
   {
     "id": "I251",
-    "nombre": "ENFERMEDAD ATEROSCLEROTICA DEL CORAZON"
+    "nombre": "ENFERMEDAD ATEROSCLEROTICA DEL CORAZON",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I252",
@@ -16517,7 +16575,9 @@
   },
   {
     "id": "I255",
-    "nombre": "CARDIOMIOPATIA ISQUEMICA"
+    "nombre": "CARDIOMIOPATIA ISQUEMICA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I256",
@@ -16529,7 +16589,9 @@
   },
   {
     "id": "I259",
-    "nombre": "ENFERMEDAD ISQUEMICA CRONICA DEL CORAZON, NO ESPECIFICADA"
+    "nombre": "ENFERMEDAD ISQUEMICA CRONICA DEL CORAZON, NO ESPECIFICADA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "(I26 - I28)",
@@ -17049,7 +17111,9 @@
   },
   {
     "id": "I48X",
-    "nombre": "FIBRILACION Y ALETEO AURICULAR"
+    "nombre": "FIBRILACION Y ALETEO AURICULAR",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I49",
@@ -17085,7 +17149,9 @@
   },
   {
     "id": "I499",
-    "nombre": "ARRITMIA CARDIACA, NO ESPECIFICADA"
+    "nombre": "ARRITMIA CARDIACA, NO ESPECIFICADA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I50",
@@ -17093,15 +17159,21 @@
   },
   {
     "id": "I500",
-    "nombre": "INSUFICIENCIA CARDIACA CONGESTIVA"
+    "nombre": "INSUFICIENCIA CARDIACA CONGESTIVA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I501",
-    "nombre": "INSUFICIENCIA VENTRICULAR IZQUIERDA"
+    "nombre": "INSUFICIENCIA VENTRICULAR IZQUIERDA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I509",
-    "nombre": "INSUFICIENCIA CARDIACA, NO ESPECIFICADA"
+    "nombre": "INSUFICIENCIA CARDIACA, NO ESPECIFICADA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I51",
@@ -17457,11 +17529,15 @@
   },
   {
     "id": "I693",
-    "nombre": "SECUELAS DE INFARTO CEREBRAL"
+    "nombre": "SECUELAS DE INFARTO CEREBRAL",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I694",
-    "nombre": "SECUELAS DE ACCIDENTE VASCULAR ENCEFALICO, NO ESPECIFICADO COMO HEMORRAGICO O ISQUEMICO"
+    "nombre": "SECUELAS DE ACCIDENTE VASCULAR ENCEFALICO, NO ESPECIFICADO COMO HEMORRAGICO O ISQUEMICO",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I698",
@@ -17853,7 +17929,9 @@
   },
   {
     "id": "I872",
-    "nombre": "INSUFICIENCIA VENOSA (CRONICA) (PERIFERICA) -"
+    "nombre": "INSUFICIENCIA VENOSA (CRONICA) (PERIFERICA)",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "I878",
@@ -20541,7 +20619,9 @@
   },
   {
     "id": "K590",
-    "nombre": "CONSTIPACION"
+    "nombre": "CONSTIPACION",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "K591",
@@ -23205,7 +23285,9 @@
   },
   {
     "id": "M069",
-    "nombre": "ARTRITIS REUMATOIDE, NO ESPECIFICADA"
+    "nombre": "ARTRITIS REUMATOIDE, NO ESPECIFICADA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "M07",
@@ -23589,7 +23671,9 @@
   },
   {
     "id": "M199",
-    "nombre": "ARTROSIS, NO ESPECIFICADA"
+    "nombre": "ARTROSIS, NO ESPECIFICADA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "M20",
@@ -24445,11 +24529,15 @@
   },
   {
     "id": "M544",
-    "nombre": "LUMBAGO CON CIATICA"
+    "nombre": "LUMBAGO CON CIATICA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "M545",
-    "nombre": "LUMBAGO NO ESPECIFICADO"
+    "nombre": "LUMBAGO NO ESPECIFICADO",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "M546",
@@ -24461,7 +24549,9 @@
   },
   {
     "id": "M549",
-    "nombre": "DORSALGIA, NO ESPECIFICADA"
+    "nombre": "DORSALGIA, NO ESPECIFICADA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "(M60 - M79)",
@@ -26213,7 +26303,9 @@
   },
   {
     "id": "N189",
-    "nombre": "ENFERMEDAD RENAL CRONICA, NO ESPECIFICADA"
+    "nombre": "ENFERMEDAD RENAL CRONICA, NO ESPECIFICADA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "N19",
@@ -26561,7 +26653,9 @@
   },
   {
     "id": "N390",
-    "nombre": "INFECCION DE VIAS URINARIAS, SITIO NO ESPECIFICADO"
+    "nombre": "INFECCION DE VIAS URINARIAS, SITIO NO ESPECIFICADO",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "N391",
@@ -26597,7 +26691,9 @@
   },
   {
     "id": "N40X",
-    "nombre": "HIPERPLASIA DE LA PROSTATA"
+    "nombre": "HIPERPLASIA DE LA PROSTATA",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "N41",
@@ -34409,7 +34505,9 @@
   },
   {
     "id": "R002",
-    "nombre": "PALPITACIONES"
+    "nombre": "PALPITACIONES",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "R008",
@@ -34425,7 +34523,9 @@
   },
   {
     "id": "R011",
-    "nombre": "SOPLO CARDIACO, NO ESPECIFICADO"
+    "nombre": "SOPLO CARDIACO, NO ESPECIFICADO",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "R012",
@@ -35573,11 +35673,15 @@
   },
   {
     "id": "R730",
-    "nombre": "ANORMALIDADES EN LA PRUEBA DE TOLERANCIA A LA GLUCOSA"
+    "nombre": "ANORMALIDADES EN LA PRUEBA DE TOLERANCIA A LA GLUCOSA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "R739",
-    "nombre": "HIPERGLICEMIA, NO ESPECIFICADA"
+    "nombre": "HIPERGLICEMIA, NO ESPECIFICADA",
+    "subtipo": "ENDOCRINOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "R74",
@@ -57233,7 +57337,9 @@
   },
   {
     "id": "Z000",
-    "nombre": "EXAMEN MEDICO GENERAL"
+    "nombre": "EXAMEN MEDICO GENERAL",
+    "subtipo": "MEDICINA INTERNA",
+    "clase": "FAVORITO"
   },
   {
     "id": "Z001",
@@ -60609,7 +60715,9 @@
   },
   {
     "id": "Z950",
-    "nombre": "PRESENCIA DE DISPOSITIVOS CARDIACOS ELECTRONICOS"
+    "nombre": "PRESENCIA DE DISPOSITIVOS CARDIACOS ELECTRONICOS",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "Z951",
@@ -60617,7 +60725,9 @@
   },
   {
     "id": "Z952",
-    "nombre": "PRESENCIA DE VALVULA CARDIACA PROTESICA"
+    "nombre": "PRESENCIA DE VALVULA CARDIACA PROTESICA",
+    "subtipo": "CARDIOLOGIA",
+    "clase": "FAVORITO"
   },
   {
     "id": "Z953",
