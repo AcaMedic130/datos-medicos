@@ -68,14 +68,16 @@
   {
     "id": "00012",
     "medicamento": "Lidocaína clorhidrato + epinefrina",
-    "concentracion": "2% + 1:80 000",
-    "forma": "INY"
+    "concentracion": "20mg +12.5ug/ml +1.8ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00013",
     "medicamento": "Lidocaína clorhidrato sin epinefrina",
     "concentracion": "2%",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00014",
@@ -86,8 +88,9 @@
   {
     "id": "00015",
     "medicamento": "Lidocaína clorhidrato sin preservante sin epinefrina",
-    "concentracion": "2%",
-    "forma": "INY"
+    "concentracion": "20mg/ml (2%) x 20ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00016",
@@ -177,37 +180,43 @@
     "id": "00030",
     "medicamento": "Ácido acetilsalicílico",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00031",
-    "medicamento": "Diclofenaco sódico",
-    "concentracion": "25mg/mL",
-    "forma": "INY"
+    "medicamento": "Diclofenaco sódico 75mg",
+    "concentracion": "25mg/mL x 3ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00032",
     "medicamento": "Ibuprofeno",
-    "concentracion": "100mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "100mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00033",
     "medicamento": "Ibuprofeno",
     "concentracion": "200mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00034",
     "medicamento": "Ibuprofeno",
     "concentracion": "400mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00035",
-    "medicamento": "Metamizol sódico",
-    "concentracion": "500mg/mL",
-    "forma": "INY"
+    "medicamento": "Metamizol sódico 1g",
+    "concentracion": "500mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00036",
@@ -219,19 +228,22 @@
     "id": "00037",
     "medicamento": "Naproxeno (como base o sal sódica)",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00038",
     "medicamento": "Paracetamol",
     "concentracion": "100mg/mL",
-    "forma": "LIQ ORAL"
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00039",
     "medicamento": "Paracetamol",
     "concentracion": "120mg/5mL",
-    "forma": "LIQ ORAL"
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00040",
@@ -243,7 +255,8 @@
     "id": "00041",
     "medicamento": "Paracetamol",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00042",
@@ -357,13 +370,15 @@
     "id": "00060",
     "medicamento": "Tramadol clorhidrato",
     "concentracion": "50mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00061",
     "medicamento": "Amitriptilina clorhidrato",
     "concentracion": "25mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00062",
@@ -434,8 +449,9 @@
   {
     "id": "00073",
     "medicamento": "Lactulosa",
-    "concentracion": "3.1-3.7g/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "3.1-3.7g/5mL x 180ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00074",
@@ -459,7 +475,8 @@
     "id": "00077",
     "medicamento": "Metoclopramida clorhidrato",
     "concentracion": "10mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00078",
@@ -500,26 +517,30 @@
   {
     "id": "00084",
     "medicamento": "Clorfenamina maleato",
-    "concentracion": "10mg/mL",
-    "forma": "INY"
+    "concentracion": "10mg/mL x 1ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00085",
     "medicamento": "Clorfenamina maleato",
-    "concentracion": "2mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "2mg/5mL x 120ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00086",
     "medicamento": "Clorfenamina maleato",
     "concentracion": "4mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00087",
     "medicamento": "Dexametasona fosfato (como sal sódica)",
-    "concentracion": "4mg/mL",
-    "forma": "INY"
+    "concentracion": "4mg/mL x ",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00088",
@@ -537,13 +558,15 @@
     "id": "00090",
     "medicamento": "Loratadina",
     "concentracion": "10mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00091",
     "medicamento": "Loratadina",
-    "concentracion": "5mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "5mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00092",
@@ -555,13 +578,15 @@
     "id": "00093",
     "medicamento": "Prednisona",
     "concentracion": "50mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00094",
     "medicamento": "Prednisona",
     "concentracion": "20mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00095",
@@ -723,13 +748,15 @@
     "id": "00121",
     "medicamento": "Clonazepam",
     "concentracion": "500mcg (0.5mg)",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00122",
     "medicamento": "Clonazepam",
     "concentracion": "2mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00123",
@@ -831,7 +858,8 @@
     "id": "00139",
     "medicamento": "Gabapentina",
     "concentracion": "300mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00140",
@@ -879,7 +907,8 @@
     "id": "00147",
     "medicamento": "Albendazol",
     "concentracion": "100mg/5mL",
-    "forma": "LIQ ORAL"
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00148",
@@ -915,13 +944,15 @@
     "id": "00153",
     "medicamento": "Mebendazol",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00154",
     "medicamento": "Mebendazol",
-    "concentracion": "100mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "100mg/5mL x 30ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00155",
@@ -962,26 +993,30 @@
   {
     "id": "00161",
     "medicamento": "Amoxicilina",
-    "concentracion": "250mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "250mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00162",
     "medicamento": "Amoxicilina",
     "concentracion": "500mg/5mL",
-    "forma": "LIQ ORAL"
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00163",
     "medicamento": "Amoxicilina",
     "concentracion": "250mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00164",
     "medicamento": "Amoxicilina",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00165",
@@ -992,68 +1027,79 @@
   {
     "id": "00166",
     "medicamento": "Amoxicilina + ácido clavulánico (como sal potásica)",
-    "concentracion": "250mg + 62.5mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "250mg + 62.5mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00167",
     "medicamento": "Amoxicilina + ácido clavulánico (como sal potásica)",
     "concentracion": "500mg + 125mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00168",
     "medicamento": "Ampicilina (como sal sódica)",
     "concentracion": "500mg",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00169",
     "medicamento": "Ampicilina (como sal sódica)",
     "concentracion": "1g",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00170",
     "medicamento": "Bencilpenicilina sódica",
     "concentracion": "equiv 1 000 000UI Bencilpenicilina",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00171",
     "medicamento": "Bencilpenicilina procaínica",
     "concentracion": "equiv 1 000 000UI Bencilpenicilina",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00172",
     "medicamento": "Bencilpenicilina benzatina",
     "concentracion": "equiv 1 200 000UI Bencilpenicilina",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00173",
     "medicamento": "Bencilpenicilina benzatina",
     "concentracion": "equiv 2 400 000UI Bencilpenicilina",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00174",
     "medicamento": "Dicloxacilina (como sal sódica)",
     "concentracion": "250mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00175",
     "medicamento": "Dicloxacilina (como sal sódica)",
-    "concentracion": "250mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "250mg/5mL x 60 ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00176",
     "medicamento": "Dicloxacilina (como sal sódica)",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00177",
@@ -1095,13 +1141,15 @@
     "id": "00183",
     "medicamento": "Cefalexina",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00184",
     "medicamento": "Cefalexina",
-    "concentracion": "250mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "250mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00185",
@@ -1137,7 +1185,8 @@
     "id": "00190",
     "medicamento": "Ceftriaxona (como sal sódica)",
     "concentracion": "1g",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00191",
@@ -1161,7 +1210,8 @@
     "id": "00194",
     "medicamento": "Azitromicina",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00195",
@@ -1185,25 +1235,29 @@
     "id": "00198",
     "medicamento": "Clindamicina (como clorhidrato)",
     "concentracion": "300mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00199",
-    "medicamento": "Clindamicina (como fosfato)",
-    "concentracion": "150mg/mL",
-    "forma": "INY"
+    "medicamento": "Clindamicina (como fosfato) 600mg",
+    "concentracion": "150mg/mL x 4ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00200",
     "medicamento": "Eritromicina (como estearato o etilsuccinato)",
-    "concentracion": "200-250mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "200-250mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00201",
     "medicamento": "Eritromicina (como estearato o etilsuccinato)",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00202",
@@ -1214,8 +1268,9 @@
   {
     "id": "00203",
     "medicamento": "Amikacina (como sulfato)",
-    "concentracion": "250mg/mL",
-    "forma": "INY"
+    "concentracion": "250mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00204",
@@ -1237,15 +1292,17 @@
   },
   {
     "id": "00207",
-    "medicamento": "Gentamicina (como sulfato)",
-    "concentracion": "80mg/mL",
-    "forma": "INY"
+    "medicamento": "Gentamicina (como sulfato) 160mg",
+    "concentracion": "80mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00208",
     "medicamento": "Sulfametoxazol + trimetoprima",
-    "concentracion": "200mg + 40mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "200mg + 40mg/5mL x 60ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00209",
@@ -1257,7 +1314,8 @@
     "id": "00210",
     "medicamento": "Sulfametoxazol + trimetoprima",
     "concentracion": "800mg + 160mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00211",
@@ -1281,13 +1339,15 @@
     "id": "00214",
     "medicamento": "Ciprofloxacino (como clorhidrato)",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00215",
     "medicamento": "Doxiciclina (como clorhidrato o hiclato)",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00216",
@@ -1340,8 +1400,9 @@
   {
     "id": "00224",
     "medicamento": "Metronidazol (como benzoato)",
-    "concentracion": "250mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "250mg/5mL x 120ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00225",
@@ -1353,13 +1414,15 @@
     "id": "00226",
     "medicamento": "Metronidazol",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00227",
     "medicamento": "Nitrofurantoina",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00228",
@@ -1563,7 +1626,8 @@
     "id": "00261",
     "medicamento": "Clotrimazol",
     "concentracion": "500mg",
-    "forma": "OVU/TAB VAG"
+    "forma": "OVU/TAB VAG",
+    "clase": "FAVORITO"
   },
   {
     "id": "00262",
@@ -1581,7 +1645,8 @@
     "id": "00264",
     "medicamento": "Fluconazol",
     "concentracion": "150mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00265",
@@ -2649,13 +2714,15 @@
     "id": "00442",
     "medicamento": "Dexametasona fosfato (como sal sódica)",
     "concentracion": "4mg/mL",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00443",
     "medicamento": "Dexametasona",
     "concentracion": "4mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00444",
@@ -2703,7 +2770,8 @@
     "id": "00451",
     "medicamento": "Biperideno clorhidrato",
     "concentracion": "2mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00452",
@@ -2739,7 +2807,8 @@
     "id": "00457",
     "medicamento": "Ácido fólico",
     "concentracion": "500mcg (0.5mg)",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00458",
@@ -2757,37 +2826,43 @@
     "id": "00460",
     "medicamento": "Hidroxocobalamina",
     "concentracion": "1mg/mL",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00461",
     "medicamento": "Hierro (como sacarato)",
     "concentracion": "20mg Fe/mL",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00462",
-    "medicamento": "Hierro (como sulfato)",
-    "concentracion": "15mg Fe/5mL",
-    "forma": "LIQ ORAL"
+    "medicamento": "Hierro (como sulfato) - Sulfato ferroso 75mg/ml",
+    "concentracion": "15mg Fe/5mL x 180ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00463",
-    "medicamento": "Hierro (como sulfato)",
+    "medicamento": "Hierro (como sulfato) - Sulfato ferroso 300 mg",
     "concentracion": "60mg Fe",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00464",
-    "medicamento": "Hierro (como sulfato)",
-    "concentracion": "25mg Fe/mL",
-    "forma": "LIQ ORAL"
+    "medicamento": "Hierro (como sulfato) - Sulfato ferroso 125mg/ml",
+    "concentracion": "25mg Fe/mL x 30ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00465",
-    "medicamento": "Hierro (como sulfato) + ácido fólico",
-    "concentracion": "60mg Fe + 400mcg",
-    "forma": "TAB"
+    "medicamento": "Sulfato ferroso + ácido fólico",
+    "concentracion": "60mg Fe(+2) + 400mcg",
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00466",
@@ -2839,9 +2914,10 @@
   },
   {
     "id": "00474",
-    "medicamento": "Fitomenadiona",
-    "concentracion": "10mg/mL",
-    "forma": "INY"
+    "medicamento": "Fitomenadiona 10mg",
+    "concentracion": "10mg/mL x 1ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00475",
@@ -3027,13 +3103,15 @@
     "id": "00505",
     "medicamento": "Amlodipino (como besilato)",
     "concentracion": "10mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00506",
     "medicamento": "Amlodipino (como besilato)",
     "concentracion": "5mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00507",
@@ -3081,19 +3159,22 @@
     "id": "00514",
     "medicamento": "Captopril",
     "concentracion": "25mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00515",
     "medicamento": "Enalapril maleato",
     "concentracion": "10mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00516",
     "medicamento": "Enalapril maleato",
     "concentracion": "20mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00517",
@@ -3105,7 +3186,8 @@
     "id": "00518",
     "medicamento": "Hidroclorotiazida",
     "concentracion": "25mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00519",
@@ -3123,7 +3205,8 @@
     "id": "00521",
     "medicamento": "Losartán potásico",
     "concentracion": "50mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00522",
@@ -3213,7 +3296,8 @@
     "id": "00536",
     "medicamento": "Ácido acetilsalicílico",
     "concentracion": "80-100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00537",
@@ -3237,19 +3321,22 @@
     "id": "00540",
     "medicamento": "Atorvastatina (como sal cálcica)",
     "concentracion": "10mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00541",
     "medicamento": "Atorvastatina (como sal cálcica)",
     "concentracion": "20mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00542",
     "medicamento": "Atorvastatina (como sal cálcica)",
     "concentracion": "40mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00543",
@@ -3267,7 +3354,8 @@
     "id": "00545",
     "medicamento": "Gemfibrozilo",
     "concentracion": "600mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00546",
@@ -3290,14 +3378,16 @@
   {
     "id": "00549",
     "medicamento": "Clotrimazol",
-    "concentracion": "1%",
-    "forma": "CRM TOP"
+    "concentracion": "10mg/g (1%) x 20g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00550",
     "medicamento": "Clotrimazol",
     "concentracion": "1%",
-    "forma": "SOL TOP"
+    "forma": "SOL TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00551",
@@ -3308,8 +3398,9 @@
   {
     "id": "00552",
     "medicamento": "Mupirocina (como mupirocina cálcica)",
-    "concentracion": "2%",
-    "forma": "CRM TOP"
+    "concentracion": "20 mg/g (2%) x 15g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00553",
@@ -3332,121 +3423,126 @@
   {
     "id": "00556",
     "medicamento": "Sulfadiazina de plata",
-    "concentracion": "1%",
-    "forma": "CRM TOP"
+    "concentracion": "10mg/g (1%) x 50g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00557",
-    "medicamento": "Sulfadiazina de plata",
-    "concentracion": "1%",
-    "forma": "CRM TOP"
+    "medicamento": "Betametasona (como dipropionato)",
+    "concentracion": "0.5 mg/g (0.05%) x 20g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00558",
-    "medicamento": "Betametasona (como dipropionato)",
-    "concentracion": "0.05%",
-    "forma": "CRM TOP"
+    "medicamento": "Clobetasol propionato",
+    "concentracion": "0.5 mg/g (0.05%) x 25g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00559",
-    "medicamento": "Clobetasol propionato",
-    "concentracion": "0.05%",
-    "forma": "CRM TOP"
-  },
-  {
-    "id": "00560",
     "medicamento": "Hidrocortisona (como acetato)",
     "concentracion": "1%",
     "forma": "CRM TOP"
   },
   {
-    "id": "00561",
+    "id": "00560",
     "medicamento": "Triamcinolona acetonido",
     "concentracion": "0.025%",
     "forma": "LOC"
   },
   {
-    "id": "00562",
+    "id": "00561",
     "medicamento": "Benzoilo peróxido",
     "concentracion": "4-5%",
     "forma": "GEL TOP"
   },
   {
-    "id": "00563",
+    "id": "00562",
     "medicamento": "Bencilo benzoato",
-    "concentracion": "25%",
+    "concentracion": "250 mg/ml (25%) x 120 ml",
+    "forma": "LOC",
+    "clase": "FAVORITO"
+  },
+  {
+    "id": "00563",
+    "medicamento": "Permetrina",
+    "concentracion": "1%",
     "forma": "LOC"
   },
   {
     "id": "00564",
     "medicamento": "Permetrina",
-    "concentracion": "1%",
-    "forma": "LOC"
+    "concentracion": "50 mg/g (5%) x 60g",
+    "forma": "CRM TOP",
+    "clase": "FAVORITO"
   },
   {
     "id": "00565",
-    "medicamento": "Permetrina",
-    "concentracion": "5%",
-    "forma": "CRM TOP"
-  },
-  {
-    "id": "00566",
     "medicamento": "Acitretina",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00567",
+    "id": "00566",
     "medicamento": "Isotretinoina",
     "concentracion": "20mg",
     "forma": "TAB"
   },
   {
-    "id": "00568",
+    "id": "00567",
     "medicamento": "Óxido de zinc",
     "concentracion": "10-40%",
     "forma": "CRM TOP/POM/PAS"
   },
   {
-    "id": "00569",
+    "id": "00568",
     "medicamento": "Nitrato de plata",
     "concentracion": "",
     "forma": "BARRA/LAPIZ"
   },
   {
-    "id": "00570",
+    "id": "00569",
     "medicamento": "Fluoresceína sódica",
     "concentracion": "10%",
     "forma": "INY"
   },
   {
-    "id": "00571",
+    "id": "00570",
     "medicamento": "Ciclopentolato clorhidrato",
     "concentracion": "1%",
     "forma": "SOL OFT"
   },
   {
-    "id": "00572",
+    "id": "00571",
     "medicamento": "Fenilefrina clorhidrato",
     "concentracion": "2.50%",
     "forma": "SOL OFT"
   },
   {
-    "id": "00573",
+    "id": "00572",
     "medicamento": "Bario sulfato",
     "concentracion": "",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00574",
+    "id": "00573",
     "medicamento": "Bario sulfato",
     "concentracion": "",
     "forma": "SUS REC"
   },
   {
-    "id": "00575",
+    "id": "00574",
     "medicamento": "Iotalamato meglumina",
     "concentracion": "60%",
+    "forma": "INY"
+  },
+  {
+    "id": "00575",
+    "medicamento": "Iohexol",
+    "concentracion": "equiv 300mg iodo/mL",
     "forma": "INY"
   },
   {
@@ -3458,7 +3554,7 @@
   {
     "id": "00577",
     "medicamento": "Iohexol",
-    "concentracion": "equiv 300mg iodo/mL",
+    "concentracion": "equiv 350mg iodo/mL",
     "forma": "INY"
   },
   {
@@ -3469,8 +3565,8 @@
   },
   {
     "id": "00579",
-    "medicamento": "Iohexol",
-    "concentracion": "equiv 350mg iodo/mL",
+    "medicamento": "Iopamidol",
+    "concentracion": "equiv 300mg iodo/mL",
     "forma": "INY"
   },
   {
@@ -3482,7 +3578,7 @@
   {
     "id": "00581",
     "medicamento": "Iopamidol",
-    "concentracion": "equiv 300mg iodo/mL",
+    "concentracion": "equiv 370mg iodo/mL",
     "forma": "INY"
   },
   {
@@ -3493,62 +3589,63 @@
   },
   {
     "id": "00583",
-    "medicamento": "Iopamidol",
-    "concentracion": "equiv 370mg iodo/mL",
-    "forma": "INY"
-  },
-  {
-    "id": "00584",
     "medicamento": "Gadopentetato meglumina",
     "concentracion": "469.01mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00585",
+    "id": "00584",
     "medicamento": "Bisacodilo",
     "concentracion": "10mg",
     "forma": "SUP"
   },
   {
-    "id": "00586",
+    "id": "00585",
     "medicamento": "Bisacodilo",
     "concentracion": "5mg",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00587",
+    "id": "00586",
     "medicamento": "Macrogol 3350 + potasio cloruro + sodio cloruro + sodio bicarbonato con o sin sodio sulfato",
     "concentracion": "",
     "forma": "PLV"
   },
   {
-    "id": "00588",
+    "id": "00587",
     "medicamento": "Sodio fosfato monobásico + sodio fosfato dibásico",
     "concentracion": "16g + 6g/100mL",
     "forma": "SOL REC"
   },
   {
-    "id": "00589",
+    "id": "00588",
     "medicamento": "Simeticona",
-    "concentracion": "80mg/mL o mas",
-    "forma": "LIQ ORAL"
+    "concentracion": "80mg/mL o mas x 15ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00590",
+    "id": "00589",
     "medicamento": "Alcohol etílico",
     "concentracion": "70°",
     "forma": "SOL TOP"
   },
   {
-    "id": "00591",
+    "id": "00590",
     "medicamento": "Clorhexidina gluconato",
     "concentracion": "4%",
     "forma": "SOL TOP"
   },
   {
-    "id": "00592",
+    "id": "00591",
     "medicamento": "Peróxido de hidrógeno",
     "concentracion": "3% (10vols)",
+    "forma": "SOL TOP"
+  },
+  {
+    "id": "00592",
+    "medicamento": "Yodo-povidona",
+    "concentracion": "7-10%",
     "forma": "SOL TOP"
   },
   {
@@ -3559,351 +3656,368 @@
   },
   {
     "id": "00594",
-    "medicamento": "Yodo-povidona",
-    "concentracion": "7-10%",
-    "forma": "SOL TOP"
-  },
-  {
-    "id": "00595",
     "medicamento": "Glutaral",
     "concentracion": "2%",
     "forma": "SOL"
   },
   {
-    "id": "00596",
+    "id": "00595",
     "medicamento": "Hipoclorito sódico",
     "concentracion": "10%",
     "forma": "SOL"
   },
   {
-    "id": "00597",
+    "id": "00596",
     "medicamento": "Espironolactona",
     "concentracion": "100mg",
     "forma": "TAB"
   },
   {
-    "id": "00598",
+    "id": "00597",
     "medicamento": "Espironolactona",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00599",
+    "id": "00598",
     "medicamento": "Furosemida",
     "concentracion": "10mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00600",
+    "id": "00599",
     "medicamento": "Furosemida",
     "concentracion": "20mg/5mL",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00601",
+    "id": "00600",
     "medicamento": "Furosemida",
     "concentracion": "40mg",
     "forma": "TAB"
   },
   {
-    "id": "00602",
+    "id": "00601",
     "medicamento": "Hidroclorotiazida",
     "concentracion": "12.5mg",
     "forma": "TAB"
   },
   {
-    "id": "00603",
+    "id": "00602",
     "medicamento": "Hidroclorotiazida",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00604",
+    "id": "00603",
     "medicamento": "Manitol",
     "concentracion": "0.2",
     "forma": "INY"
   },
   {
-    "id": "00605",
+    "id": "00604",
     "medicamento": "Aluminio hidróxido + magnesio hidróxido",
     "concentracion": "400mg + 400mg/5mL",
-    "forma": "LIQ ORAL"
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
+  },
+  {
+    "id": "00605",
+    "medicamento": "Bismuto subsalicilato",
+    "concentracion": "87.33mg/5mL x 150ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
     "id": "00606",
-    "medicamento": "Bismuto subsalicilato",
-    "concentracion": "87.33mg/5mL",
-    "forma": "LIQ ORAL"
+    "medicamento": "Omeprazol",
+    "concentracion": "20mg",
+    "forma": "TAB LIB MODIF",
+    "clase": "FAVORITO"
   },
   {
     "id": "00607",
-    "medicamento": "Omeprazol",
-    "concentracion": "20mg",
-    "forma": "TAB LIB MODIF"
+    "medicamento": "Omeprazol (como sal sódica)",
+    "concentracion": "40mg",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00608",
-    "medicamento": "Omeprazol (como sal sódica)",
-    "concentracion": "40mg",
-    "forma": "INY"
+    "medicamento": "Ranitidina (como clorhidrato) 50mg",
+    "concentracion": "25mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00609",
-    "medicamento": "Ranitidina (como clorhidrato)",
-    "concentracion": "25mg/mL",
-    "forma": "INY"
-  },
-  {
-    "id": "00610",
     "medicamento": "Ranitidina (como clorhidrato)",
     "concentracion": "150mg",
     "forma": "TAB"
   },
   {
-    "id": "00611",
+    "id": "00610",
     "medicamento": "Ranitidina (como clorhidrato)",
     "concentracion": "300mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
+  },
+  {
+    "id": "00611",
+    "medicamento": "Dimenhidrinato 50mg",
+    "concentracion": "10mg/mL x 5ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00612",
     "medicamento": "Dimenhidrinato",
-    "concentracion": "10mg/mL",
-    "forma": "INY"
+    "concentracion": "50mg",
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00613",
-    "medicamento": "Dimenhidrinato",
-    "concentracion": "50mg",
-    "forma": "TAB"
-  },
-  {
-    "id": "00614",
     "medicamento": "Metoclopramida clorhidrato",
     "concentracion": "5mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00615",
+    "id": "00614",
     "medicamento": "Metoclopramida clorhidrato",
     "concentracion": "5mg/5mL",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00616",
+    "id": "00615",
     "medicamento": "Metoclopramida clorhidrato",
     "concentracion": "10mg",
     "forma": "TAB"
   },
   {
-    "id": "00617",
+    "id": "00616",
     "medicamento": "Ondansetron (como clorhidrato)",
     "concentracion": "8mg",
     "forma": "TAB"
   },
   {
-    "id": "00618",
+    "id": "00617",
     "medicamento": "Ondansetron (como clorhidrato)",
     "concentracion": "2mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00619",
+    "id": "00618",
     "medicamento": "Sulfasalazina",
     "concentracion": "500mg",
     "forma": "TAB"
   },
   {
-    "id": "00620",
+    "id": "00619",
     "medicamento": "Mesalazina",
     "concentracion": "500mg",
     "forma": "SUP"
   },
   {
-    "id": "00621",
+    "id": "00620",
     "medicamento": "Atropina sulfato",
     "concentracion": "250mcg/mL (0.25mg/mL)",
     "forma": "INY"
   },
   {
-    "id": "00622",
+    "id": "00621",
     "medicamento": "Atropina sulfato",
     "concentracion": "500mcg/mL (0.5mg/mL)",
     "forma": "INY"
   },
   {
+    "id": "00622",
+    "medicamento": "Escopolamina N-butilbromuro",
+    "concentracion": "20mg/mL x 1ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
+  },
+  {
     "id": "00623",
-    "medicamento": "Escopolamina butilbromuro",
-    "concentracion": "20mg/mL",
-    "forma": "INY"
+    "medicamento": "Escopolamina N-butilbromuro",
+    "concentracion": "10mg",
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00624",
-    "medicamento": "Escopolamina butilbromuro",
-    "concentracion": "10mg",
-    "forma": "TAB"
-  },
-  {
-    "id": "00625",
     "medicamento": "Glicerol",
     "concentracion": "",
     "forma": "SUP"
   },
   {
-    "id": "00626",
+    "id": "00625",
     "medicamento": "Lactulosa",
     "concentracion": "3.1-3.7g/5mL",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00627",
+    "id": "00626",
     "medicamento": "Sales de rehidratación oral",
     "concentracion": "20.5g/L",
-    "forma": "PLV"
+    "forma": "PLV",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00628",
+    "id": "00627",
     "medicamento": "Zinc sulfato",
     "concentracion": "equiv 10mg Zn/5mL",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00629",
+    "id": "00628",
     "medicamento": "Zinc sulfato",
     "concentracion": "equiv 20mg Zn",
     "forma": "TAB"
   },
   {
-    "id": "00630",
+    "id": "00629",
     "medicamento": "Monoetanolamina oleato",
     "concentracion": "5%",
     "forma": "INY"
   },
   {
-    "id": "00631",
+    "id": "00630",
     "medicamento": "Dexametasona",
     "concentracion": "500mcg (0.5mg)",
     "forma": "TAB"
   },
   {
-    "id": "00632",
+    "id": "00631",
     "medicamento": "Dexametasona",
     "concentracion": "4mg",
     "forma": "TAB"
   },
   {
-    "id": "00633",
-    "medicamento": "Dexametasona fosfato (como sal sódica)",
-    "concentracion": "2mg/mL",
-    "forma": "INY"
+    "id": "00632",
+    "medicamento": "Dexametasona fosfato (como sal sódica) 4mg",
+    "concentracion": "2mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00634",
+    "id": "00633",
     "medicamento": "Dexametasona (como base o dexametasona fosfato sódico)",
     "concentracion": "2mg/5mL",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00635",
+    "id": "00634",
     "medicamento": "Fludrocortisona acetato",
     "concentracion": "100mcg (0.1mg)",
     "forma": "TAB"
   },
   {
-    "id": "00636",
+    "id": "00635",
     "medicamento": "Hidrocortisona",
     "concentracion": "20mg",
     "forma": "TAB"
   },
   {
-    "id": "00637",
+    "id": "00636",
     "medicamento": "Hidrocortisona (como succinato sódico)",
     "concentracion": "100mg",
     "forma": "INY"
   },
   {
-    "id": "00638",
+    "id": "00637",
     "medicamento": "Metilprednisolona (como succinato sódico)",
     "concentracion": "125mg",
     "forma": "INY"
   },
   {
-    "id": "00639",
+    "id": "00638",
     "medicamento": "Metilprednisolona (como succinato sódico)",
     "concentracion": "500mg",
     "forma": "INY"
   },
   {
-    "id": "00640",
+    "id": "00639",
     "medicamento": "Prednisona",
     "concentracion": "20mg",
     "forma": "TAB"
   },
   {
-    "id": "00641",
+    "id": "00640",
     "medicamento": "Prednisona",
     "concentracion": "50mg",
     "forma": "TAB"
   },
   {
-    "id": "00642",
+    "id": "00641",
     "medicamento": "Prednisona",
     "concentracion": "5mg",
     "forma": "TAB"
   },
   {
-    "id": "00643",
+    "id": "00642",
     "medicamento": "Prednisona",
-    "concentracion": "5mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "5mg/5mL x 120ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00644",
+    "id": "00643",
     "medicamento": "Triamcinolona acetonido",
     "concentracion": "10mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00645",
+    "id": "00644",
     "medicamento": "Triamcinolona acetonido",
     "concentracion": "40mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00646",
+    "id": "00645",
     "medicamento": "Betametasona (como fosfato sódico)",
     "concentracion": "4mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00647",
+    "id": "00646",
     "medicamento": "Testosterona enantato",
     "concentracion": "250mg/mL (equiv 180mg de testosterona/mL)",
     "forma": "INY"
   },
   {
-    "id": "00648",
+    "id": "00647",
     "medicamento": "Etinilestradiol + levonorgestrel",
     "concentracion": "30mcg + 150mcg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00649",
+    "id": "00648",
     "medicamento": "Levonorgestrel",
     "concentracion": "750mcg",
     "forma": "TAB"
   },
   {
-    "id": "00650",
+    "id": "00649",
     "medicamento": "Estradiol cipionato + medroxiprogesterona acetato",
     "concentracion": "5mg + 25mg",
-    "forma": "INY"
+    "forma": "INY",
+    "clase": "FAVORITO"
+  },
+  {
+    "id": "00650",
+    "medicamento": "Estradiol + medroxiprogesterona",
+    "concentracion": "10mg + 50mg/ml x 0.5ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00651",
     "medicamento": "Medroxiprogesterona acetato",
-    "concentracion": "150mg/mL",
-    "forma": "INY"
+    "concentracion": "150mg/mL x1ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00652",
@@ -3913,9 +4027,10 @@
   },
   {
     "id": "00653",
-    "medicamento": "Etonogestrel",
+    "medicamento": "Etonogestrel (Implante)",
     "concentracion": "68mg",
-    "forma": "IMPLANTE"
+    "forma": "IMPLANTE",
+    "clase": "FAVORITO"
   },
   {
     "id": "00654",
@@ -3951,7 +4066,8 @@
     "id": "00659",
     "medicamento": "Glibenclamida",
     "concentracion": "5mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00660",
@@ -3974,8 +4090,9 @@
   {
     "id": "00663",
     "medicamento": "Insulina isofana humana (NPH) (ADN recombinante)",
-    "concentracion": "100UI/mL",
-    "forma": "INY"
+    "concentracion": "100UI/mL x 10ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00664",
@@ -3987,7 +4104,8 @@
     "id": "00665",
     "medicamento": "Metformina clorhidrato",
     "concentracion": "850mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00666",
@@ -4035,7 +4153,8 @@
     "id": "00673",
     "medicamento": "Levotiroxina sódica",
     "concentracion": "100mcg (0.1mg)",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00674",
@@ -4389,13 +4508,15 @@
     "id": "00732",
     "medicamento": "Orfenadrina citrato",
     "concentracion": "100mg",
-    "forma": "TAB LIB MODIF"
+    "forma": "TAB LIB MODIF",
+    "clase": "FAVORITO"
   },
   {
     "id": "00733",
-    "medicamento": "Orfenadrina citrato",
-    "concentracion": "30mg/mL",
-    "forma": "INY"
+    "medicamento": "Orfenadrina citrato 60mg",
+    "concentracion": "30mg/mL x 2ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00734",
@@ -4417,9 +4538,10 @@
   },
   {
     "id": "00737",
-    "medicamento": "Tetraciclina clorhidrato",
-    "concentracion": "1%",
-    "forma": "UNG OFT"
+    "medicamento": "Tetraciclina Clorhidrato Oftalmica",
+    "concentracion": "10mg/g (1%) x 6g",
+    "forma": "UNG OFT",
+    "clase": "FAVORITO"
   },
   {
     "id": "00738",
@@ -4502,8 +4624,9 @@
   {
     "id": "00751",
     "medicamento": "Hipromelosa",
-    "concentracion": "0.3%",
-    "forma": "SOL OFT"
+    "concentracion": "3mg/ml (0.3%) x 15ml",
+    "forma": "SOL OFT",
+    "clase": "FAVORITO"
   },
   {
     "id": "00752",
@@ -4532,8 +4655,9 @@
   {
     "id": "00756",
     "medicamento": "Oxitocina",
-    "concentracion": "10UI/mL",
-    "forma": "INY"
+    "concentracion": "10UI/mL x 1ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00757",
@@ -4611,7 +4735,8 @@
     "id": "00769",
     "medicamento": "Calcio carbonato",
     "concentracion": "1.25g (equiv 500mg Ca)",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00770",
@@ -4623,7 +4748,8 @@
     "id": "00771",
     "medicamento": "Clorpromazina clorhidrato",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00772",
@@ -4695,7 +4821,8 @@
     "id": "00783",
     "medicamento": "Risperidona",
     "concentracion": "2mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00784",
@@ -4725,25 +4852,29 @@
     "id": "00788",
     "medicamento": "Fluoxetina (como clorhidrato)",
     "concentracion": "20mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00789",
     "medicamento": "Mirtazapina",
     "concentracion": "30mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00790",
     "medicamento": "Sertralina (como clorhidrato)",
     "concentracion": "50mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00791",
     "medicamento": "Carbamazepina",
     "concentracion": "200mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00792",
@@ -4755,181 +4886,187 @@
     "id": "00793",
     "medicamento": "Valproato sódico",
     "concentracion": "500mg",
-    "forma": "TAB LIB MODIF"
+    "forma": "TAB LIB MODIF",
+    "clase": "FAVORITO"
   },
   {
     "id": "00794",
     "medicamento": "Alprazolam",
     "concentracion": "500mcg (0.5mg)",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
     "id": "00795",
-    "medicamento": "Clonazepam",
-    "concentracion": "2mg",
-    "forma": "TAB"
-  },
-  {
-    "id": "00796",
     "medicamento": "Clobazam",
     "concentracion": "10mg",
     "forma": "TAB"
   },
   {
-    "id": "00797",
+    "id": "00796",
     "medicamento": "Diazepam",
     "concentracion": "5mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00798",
+    "id": "00797",
     "medicamento": "Diazepam",
     "concentracion": "5mg",
     "forma": "TAB"
   },
   {
-    "id": "00799",
+    "id": "00798",
     "medicamento": "Diazepam",
     "concentracion": "10mg",
     "forma": "TAB"
   },
   {
-    "id": "00800",
+    "id": "00799",
     "medicamento": "Levomepromazina (como maleato)",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00801",
+    "id": "00800",
     "medicamento": "Levomepromazina (como maleato)",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00802",
+    "id": "00801",
     "medicamento": "Zolpidem tartrato",
     "concentracion": "10mg",
     "forma": "TAB"
   },
   {
-    "id": "00803",
+    "id": "00802",
     "medicamento": "Clomipramina clorhidrato",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00804",
+    "id": "00803",
     "medicamento": "Disulfiram",
     "concentracion": "500mg",
     "forma": "TAB"
   },
   {
-    "id": "00805",
+    "id": "00804",
     "medicamento": "Metilfenidato clorhidrato",
     "concentracion": "10mg",
     "forma": "TAB"
   },
   {
-    "id": "00806",
+    "id": "00805",
     "medicamento": "Metilfenidato clorhidrato",
     "concentracion": "20mg",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00807",
+    "id": "00806",
     "medicamento": "Aminofilina",
     "concentracion": "25mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00808",
+    "id": "00807",
     "medicamento": "Beclometasona dipropionato",
-    "concentracion": "250mcg/dosis",
-    "forma": "AER INH"
+    "concentracion": "250mcg/dosis x 200 dosis",
+    "forma": "AER INH",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00809",
+    "id": "00808",
     "medicamento": "Beclometasona dipropionato",
     "concentracion": "50mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00810",
+    "id": "00809",
     "medicamento": "Budesonida",
     "concentracion": "100mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00811",
+    "id": "00810",
     "medicamento": "Budesonida",
     "concentracion": "200mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00812",
+    "id": "00811",
     "medicamento": "Epinefrina (como clorhidrato o tartrato ácido)",
     "concentracion": "1mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00813",
+    "id": "00812",
     "medicamento": "Fluticasona propionato + salmeterol (como xinafoato)",
     "concentracion": "250mcg + 25mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00814",
+    "id": "00813",
     "medicamento": "Fluticasona propionato + salmeterol (como xinafoato)",
     "concentracion": "125mcg + 25mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00815",
+    "id": "00814",
     "medicamento": "Ipratropio bromuro",
     "concentracion": "20mcg/dosis",
     "forma": "AER INH"
   },
   {
-    "id": "00816",
+    "id": "00815",
     "medicamento": "Salbutamol (como sulfato)",
-    "concentracion": "100mcg/dosis",
-    "forma": "AER INH"
+    "concentracion": "100mcg/dosis x 200 dosis",
+    "forma": "AER INH",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00817",
+    "id": "00816",
     "medicamento": "Salbutamol (como sulfato)",
     "concentracion": "5mg/mL",
     "forma": "SOL NBZ"
   },
   {
-    "id": "00818",
+    "id": "00817",
     "medicamento": "Teofilina",
     "concentracion": "125mg",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00819",
+    "id": "00818",
     "medicamento": "Teofilina",
     "concentracion": "250mg",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00820",
+    "id": "00819",
     "medicamento": "Dextrometorfano bromhidrato",
-    "concentracion": "15mg/5mL",
-    "forma": "LIQ ORAL"
+    "concentracion": "15mg/5mL x 120ml",
+    "forma": "LIQ ORAL",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00821",
+    "id": "00820",
     "medicamento": "Surfactante pulmonar",
     "concentracion": "",
     "forma": "SOL INTRAT/SUS INTRAT"
   },
   {
-    "id": "00822",
+    "id": "00821",
     "medicamento": "Sales de rehidratación oral",
     "concentracion": "20.5g/L",
     "forma": "PLV"
+  },
+  {
+    "id": "00822",
+    "medicamento": "Glucosa en agua",
+    "concentracion": "5%",
+    "forma": "INY"
   },
   {
     "id": "00823",
@@ -4952,74 +5089,78 @@
   {
     "id": "00826",
     "medicamento": "Glucosa en agua",
-    "concentracion": "5%",
+    "concentracion": "10%",
     "forma": "INY"
   },
   {
     "id": "00827",
     "medicamento": "Glucosa en agua",
-    "concentracion": "10%",
+    "concentracion": "33.3%",
     "forma": "INY"
   },
   {
     "id": "00828",
     "medicamento": "Glucosa en agua",
-    "concentracion": "33.3%",
-    "forma": "INY"
-  },
-  {
-    "id": "00829",
-    "medicamento": "Glucosa en agua",
     "concentracion": "50%",
     "forma": "INY"
   },
   {
-    "id": "00830",
+    "id": "00829",
     "medicamento": "Glucosa en agua + sodio cloruro",
     "concentracion": "5% + 0.9%",
     "forma": "INY"
   },
   {
-    "id": "00831",
+    "id": "00830",
     "medicamento": "Solución polielectrolítica",
     "concentracion": "",
     "forma": "INY"
   },
   {
-    "id": "00832",
+    "id": "00831",
     "medicamento": "Potasio cloruro",
     "concentracion": "20%",
     "forma": "INY"
   },
   {
-    "id": "00833",
+    "id": "00832",
     "medicamento": "Solución Ringer lactato",
     "concentracion": "",
     "forma": "INY"
   },
   {
-    "id": "00834",
+    "id": "00833",
     "medicamento": "Sodio bicarbonato",
     "concentracion": "8.40%",
     "forma": "INY"
   },
   {
+    "id": "00834",
+    "medicamento": "Sodio cloruro",
+    "concentracion": "0.9% x 1L",
+    "forma": "INY",
+    "clase": "FAVORITO"
+  },
+  {
     "id": "00835",
     "medicamento": "Sodio cloruro",
-    "concentracion": "9%",
-    "forma": "INY"
+    "concentracion": "0.9% x 100ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00836",
     "medicamento": "Sodio cloruro",
-    "concentracion": "9%",
-    "forma": "INY"
+    "concentracion": "0.9% x 250ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00837",
     "medicamento": "Sodio cloruro",
-    "concentracion": "9%",
-    "forma": "INY"
+    "concentracion": "0.9% x 500ml",
+    "forma": "INY",
+    "clase": "FAVORITO"
   },
   {
     "id": "00838",
@@ -5030,13 +5171,13 @@
   {
     "id": "00839",
     "medicamento": "Sodio cloruro",
-    "concentracion": "9%",
+    "concentracion": "20%",
     "forma": "INY"
   },
   {
     "id": "00840",
-    "medicamento": "Sodio cloruro",
-    "concentracion": "20%",
+    "medicamento": "Agua para inyección",
+    "concentracion": "",
     "forma": "INY"
   },
   {
@@ -5053,270 +5194,261 @@
   },
   {
     "id": "00843",
-    "medicamento": "Agua para inyección",
-    "concentracion": "",
-    "forma": "INY"
-  },
-  {
-    "id": "00844",
     "medicamento": "Ácido ascórbico",
     "concentracion": "100mg",
     "forma": "TAB"
   },
   {
-    "id": "00845",
-    "medicamento": "Ácido fólico",
-    "concentracion": "500mcg (0.5mg)",
-    "forma": "TAB"
-  },
-  {
-    "id": "00846",
+    "id": "00844",
     "medicamento": "Calcio carbonato",
     "concentracion": "1.25g (equiv 500mg Ca)",
     "forma": "TAB"
   },
   {
-    "id": "00847",
+    "id": "00845",
     "medicamento": "Calcio gluconato",
     "concentracion": "10% (equiv 8.4mg/mL Ca)",
     "forma": "INY"
   },
   {
-    "id": "00848",
+    "id": "00846",
     "medicamento": "Calcitriol",
     "concentracion": "1mcg/mL",
     "forma": "INY"
   },
   {
-    "id": "00849",
+    "id": "00847",
     "medicamento": "Calcitriol",
     "concentracion": "0.25mcg",
     "forma": "TAB"
   },
   {
-    "id": "00850",
+    "id": "00848",
     "medicamento": "Ergocalciferol",
     "concentracion": "1.25mg (50 000UI)",
     "forma": "TAB"
   },
   {
-    "id": "00851",
+    "id": "00849",
     "medicamento": "Ergocalciferol",
     "concentracion": "250mcg/mL (10 000UI/mL)",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00852",
+    "id": "00850",
     "medicamento": "Hidroxocobalamina",
     "concentracion": "1mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00853",
+    "id": "00851",
     "medicamento": "Nicotinamida",
     "concentracion": "100mg",
     "forma": "TAB"
   },
   {
-    "id": "00854",
+    "id": "00852",
     "medicamento": "Piridoxina clorhidrato",
     "concentracion": "25mg",
     "forma": "TAB"
   },
   {
-    "id": "00855",
+    "id": "00853",
     "medicamento": "Piridoxina clorhidrato",
     "concentracion": "50mg",
     "forma": "TAB"
   },
   {
-    "id": "00856",
+    "id": "00854",
     "medicamento": "Retinol (como palmitato)",
     "concentracion": "50 000UI",
     "forma": "TAB"
   },
   {
-    "id": "00857",
+    "id": "00855",
     "medicamento": "Retinol (como palmitato)",
     "concentracion": "100 000UI",
     "forma": "TAB"
   },
   {
-    "id": "00858",
+    "id": "00856",
     "medicamento": "Retinol (como palmitato)",
     "concentracion": "200 000UI",
     "forma": "TAB"
   },
   {
-    "id": "00859",
+    "id": "00857",
     "medicamento": "Tiamina clorhidrato",
     "concentracion": "100mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00860",
+    "id": "00858",
     "medicamento": "Tiamina clorhidrato",
     "concentracion": "100mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00861",
+    "id": "00859",
     "medicamento": "Budesonida",
     "concentracion": "100mcg/dosis",
     "forma": "SPR NAS"
   },
   {
-    "id": "00862",
+    "id": "00860",
     "medicamento": "Ciprofloxacino (como clorhidrato)",
-    "concentracion": "0.3%",
-    "forma": "SOL OTI"
+    "concentracion": "3mg/ml (0.3%) x 5ml",
+    "forma": "SOL OTI",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00863",
+    "id": "00861",
     "medicamento": "Alprostadil",
     "concentracion": "500mcg",
     "forma": "INY"
   },
   {
-    "id": "00864",
+    "id": "00862",
     "medicamento": "Cafeína citrato",
     "concentracion": "20mg/mL (equiv 10mg cafeína/mL)",
     "forma": "INY"
   },
   {
-    "id": "00865",
+    "id": "00863",
     "medicamento": "Cafeína citrato",
     "concentracion": "20mg/mL (equiv 10mg cafeína/mL)",
     "forma": "LIQ ORAL"
   },
   {
-    "id": "00866",
+    "id": "00864",
     "medicamento": "Ibuprofeno",
     "concentracion": "5mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00867",
+    "id": "00865",
     "medicamento": "Indometacina (como sal sódica)",
     "concentracion": "1mg",
     "forma": "INY"
   },
   {
-    "id": "00868",
+    "id": "00866",
     "medicamento": "Alopurinol",
     "concentracion": "100mg",
     "forma": "TAB"
   },
   {
-    "id": "00869",
+    "id": "00867",
     "medicamento": "Alopurinol",
     "concentracion": "300mg",
     "forma": "TAB"
   },
   {
-    "id": "00870",
+    "id": "00868",
     "medicamento": "Colchicina",
     "concentracion": "500mcg (0.5mg)",
     "forma": "TAB"
   },
   {
-    "id": "00871",
+    "id": "00869",
     "medicamento": "Cloroquina (como fosfato)",
     "concentracion": "150mg",
     "forma": "TAB"
   },
   {
-    "id": "00872",
+    "id": "00870",
     "medicamento": "Azatioprina",
     "concentracion": "50mg",
     "forma": "TAB"
   },
   {
-    "id": "00873",
+    "id": "00871",
     "medicamento": "Aurotiomalato sódico",
     "concentracion": "50mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00874",
+    "id": "00872",
     "medicamento": "Hidroxicloroquina sulfato",
     "concentracion": "400mg (equiv 310mg hidroxicloroquina)",
     "forma": "TAB"
   },
   {
-    "id": "00875",
+    "id": "00873",
     "medicamento": "Leflunomida",
     "concentracion": "20mg",
     "forma": "TAB"
   },
   {
-    "id": "00876",
+    "id": "00874",
     "medicamento": "Metotrexato (como base o sal sódica)",
     "concentracion": "2.5mg",
     "forma": "TAB"
   },
   {
-    "id": "00877",
+    "id": "00875",
     "medicamento": "Penicilamina",
     "concentracion": "250mg",
     "forma": "TAB"
   },
   {
-    "id": "00878",
+    "id": "00876",
     "medicamento": "Sulfasalazina",
     "concentracion": "500mg",
     "forma": "TAB"
   },
   {
-    "id": "00879",
+    "id": "00877",
     "medicamento": "Ácido acetilsalicílico",
     "concentracion": "500mg",
-    "forma": "TAB"
+    "forma": "TAB",
+    "clase": "FAVORITO"
   },
   {
-    "id": "00880",
+    "id": "00878",
     "medicamento": "Adalimumab",
     "concentracion": "40mg",
     "forma": "INY"
   },
   {
-    "id": "00881",
+    "id": "00879",
     "medicamento": "Infliximab",
     "concentracion": "100mg",
     "forma": "INY"
   },
   {
-    "id": "00882",
+    "id": "00880",
     "medicamento": "Dimenhidrinato",
     "concentracion": "10mg/mL",
     "forma": "INY"
   },
   {
-    "id": "00883",
+    "id": "00881",
     "medicamento": "Dimenhidrinato",
     "concentracion": "50mg",
     "forma": "TAB"
   },
   {
-    "id": "00884",
+    "id": "00882",
     "medicamento": "Oxibutinina clorhidrato",
     "concentracion": "5mg",
     "forma": "TAB"
   },
   {
-    "id": "00885",
+    "id": "00883",
     "medicamento": "Potasio citrato",
     "concentracion": "1080mg",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00886",
+    "id": "00884",
     "medicamento": "Tamsulosina clorhidrato",
     "concentracion": "400mcg (0.4mg)",
     "forma": "TAB LIB MODIF"
   },
   {
-    "id": "00887",
+    "id": "00885",
     "medicamento": "Finasterida",
     "concentracion": "5mg",
     "forma": "TAB"
